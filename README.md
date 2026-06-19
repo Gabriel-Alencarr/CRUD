@@ -1,4 +1,4 @@
-# CRUD simples em PHP
+# CRUD em PHP
 
 Projeto simples de CRUD com PHP + MySQL em uma única página para criar, editar, listar e excluir clientes.
 
